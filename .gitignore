@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -28,3 +29,7 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+=======
+node_modules/
+.env
+>>>>>>> 276e0560cc0d8306d68ce82981511217a67daa3d
